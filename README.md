@@ -2,4 +2,5 @@
 
 each of the tests can be ran independently.
 
-``robot .``
+instruction:
+``robot tests/``
